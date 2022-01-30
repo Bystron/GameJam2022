@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &795466066316414237
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 2164111885084290793, guid: 28acc015edab84e2da01bc1369ffce52, type: 3}
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: lifeUp
+      value: 
+      objectReference: {fileID: 7636201781009772060, guid: 05251b1b6eee2400ba84415aa41eb975, type: 3}
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: divPower
+      value: 
+      objectReference: {fileID: 1162990315877240320, guid: b0c3f4a95969f4269bb1e014b2f361c7, type: 3}
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: triPower
+      value: 
+      objectReference: {fileID: 2613768093747865016, guid: 6feb2c7eacdf74f9896c4b622839d322, type: 3}
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: lBullet.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690931558256830313, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: lBullet.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571826924151145414, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571826924151145414, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2571826924151145414, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3268798566765092053, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Size.x
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3268798566765092053, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Size.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835671753336976427, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156786311466770508, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Name
+      value: F_Bullet Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067565810338186650, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6577307886433713349, guid: 3755043d01e2d4c1f8fe13c0e8b8ceb7, type: 3}
+    - target: {fileID: 9067565810338186650, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067565810338186650, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067565810338186650, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+--- !u!1 &281212529352071781 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 643171842466617208, guid: ccf3732df0ea74cf8926b846eeaa29ff, type: 3}
+  m_PrefabInstance: {fileID: 795466066316414237}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &3095853330993240818
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 281212529352071781}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7333e39f075b24e64b728e36bde259df, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
